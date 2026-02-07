@@ -13,4 +13,4 @@ Then open http://localhost:3000
 ## Pages
 - `/` — Home
 - `/protocol` — The Architect Protocol
-- `/roles/system-support` — Public canonical role example
+- `/roles/system-support` — Public canonical role example.
